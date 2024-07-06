@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 Classic Literature Fill in the Blank Game
 
 A simple Streamlit app template for you to modify!
 
